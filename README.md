@@ -11,4 +11,9 @@ In the initial idea phase - the basic concept is an open source energy drink. 25
 
 Option 1: Set a style for building recipes in this repo.
 
+Recipe Name: <Recipe_Name> (Must be a 'sudo command')
+Creator: <Your_Name_Here>
+Ingredients: <Ingredients,List,here>
+Instructions: <Let_the_instruction_commence>
+
 Option 2: Use existing community tools to build and host recipes elsewhere.  (ie: https://cookpad.com)  Set up a community around these recipes, and allow everyone access to them there, instead of just locked here in the repo.  It is an open source community effort after all.
